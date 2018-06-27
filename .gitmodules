@@ -1,3 +1,4 @@
 [submodule "gendate"]
 	path = gendate
 	url = https://github.com/SlawomirRTemp/gendate.git
+	branch = master
